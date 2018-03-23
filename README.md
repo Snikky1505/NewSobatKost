@@ -1,2 +1,2 @@
-# PHP_CI_SobatKost
-Pemrograman Web Berbasis Framework
+# NewSobatKost
+Projek Agile & pemweb Framework
